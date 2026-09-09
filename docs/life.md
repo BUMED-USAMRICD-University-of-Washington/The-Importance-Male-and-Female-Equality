@@ -25,7 +25,3 @@ The primary systems share identical internal organs like the **stomach, intestin
 > * **The Enteric Nervous System (The Gut):** Often referred to in neuroscience as the "second brain" due to its massive network of independent neurons, the gut develops directly from the **embryonic hindgut, midgut, and foregut structures**. Primordial germ cells migrate along the wall of the hindgut near the yolk sac to reach the developing genital ridge where the gonads form. \[7\]  
 > * **The Concept of Cis-Symmetry:** In developmental biology, all organs are tracked by how these early cellular blueprints stretch, fold, and position themselves. For instance, the same tissue boundaries that fuse closed on the ventral surface of the penis in a male remain open to form the vestibule and labia minora in a female. \[8, 9\]  
 > * 
-
-\[7\] [https://www.youtube.com](https://www.youtube.com/watch?v=eKuO_526YCc&t=302)  
-\[8\] [https://www.kenhub.com](https://www.kenhub.com/en/library/anatomy/homology-of-the-male-and-female-genitalia)  
-\[9\] [https://www.youtube.com](https://www.youtube.com/watch?v=4k2Fbb1VCzg)
